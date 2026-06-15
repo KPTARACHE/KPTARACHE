@@ -1,5 +1,5 @@
 
-## Bienvenidos a mi perfil, soy Kellys Tarache especialista en Planificacion Financiera.
+## Bienvenidos a mi perfil, soy Kellys Tarache Especialista en Planificacion Financiera.
 
 <img width="1071" height="360" alt="Portada GITGUB" src="https://github.com/user-attachments/assets/b278395d-af56-4273-b71a-51c631711b38" />
 
