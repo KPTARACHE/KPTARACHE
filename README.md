@@ -1,26 +1,26 @@
 
-## Bienvenidos a mi perfil, soy Kellys Tarache Especialista en Planificacion Financiera.
+## Bienvenidos a mi perfil, soy Kellys Tarache, especialista en Planificación financiera.
 
 <img width="1071" height="360" alt="Portada GITGUB" src="https://github.com/user-attachments/assets/b278395d-af56-4273-b71a-51c631711b38" />
 
 
 ### Perfil Profesional.
 
-Profesional de finanzas con +7 años de experiencia en Control de Gestión, con foco en la Planificación Financiera (Budgets, Forecast, P&L), actualmente me encuentro en formación en datos para potenciar mis analisis, con el dominio de herramientas como power BI y SQL. 
+Profesional de finanzas con más de 7 años de experiencia en Control de Gestión, con foco en la Planificación Financiera (Budgets, Forecast, P&L), actualmente me encuentro en formación en datos para potenciar habilidades de análisis, con el dominio de herramientas como power BI, SQL y Python. 
 
 ---
 
 ### Experiencia.
 
 Bupa Chile (2019-Actualidad)
-2024-Actualidad Analista Senior Control de Gestión en BUPA LAB.
+2024-Actualidad Analista senior Control de Gestión en BUPA LAB.
 
-- Coordinardora del proceso de planificacion financiera (Budget y Forecast).
-- Ecargada de elaborar informes financieros (P&L).
+- Coordinadora del proceso de planificación financiera (Budget y Forecast).
+- Encargada de elaborar informes financieros (P&L).
 - Coordinadora del proceso cierre mensual.
-- Encargada de validar y consolidar información financiera para la toma de deciones.
+- Encargada de validar y consolidar información financiera para la toma de decisiones.
 
-2021-2024 Analista Control de gestión en INTEGRAMEDICA PARTE DE BUPA.
+2021-2024 Analista de Control de gestión en Integramedica, parte de Bupa.
 
 - Responsable del análisis de desviaciones (Budget vs real vs Forecast)
 - Participación en la planificación financiera (Budgets y Forecast)
@@ -30,18 +30,17 @@ Bupa Chile (2019-Actualidad)
 2019-2021 Asistente Administrativo en BUPA LAB
 
 - Encargada de apoyar en el planificación presupuestaria.
-- A cargo del analisis de cuentas para calculo de provisiones y toma de deciones.
-- Encargada de elaborar informes estadísticos operativos y finanieros.
+- A cargo del análisis de cuentas para cálculo de provisiones y toma de decisiones.
 
 ---
 
 ### Herramientas.
 
-Excel Avanzado.
+Excel avanzado.
 
-SAP Avanzado.
+SAP avanzado.
 
-Power BI.
+Power BI avanzado.
 
 SQL.
 
@@ -51,23 +50,3 @@ SQL.
 
 <img width="350" height="200" alt="Diploma Control de Gestión" src="https://github.com/user-attachments/assets/890ac328-418d-49fc-b3ef-2cd8a0de8e93" />
 
-
-
-
-
-  
-
-<!--
-**KPTARACHE/KPTARACHE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
