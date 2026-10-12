@@ -8,6 +8,8 @@
 
 Profesional de finanzas con más de 7 años de experiencia en Control de Gestión, con foco en la Planificación Financiera (Budgets, Forecast, P&L), actualmente me encuentro en formación en datos para potenciar habilidades de análisis, con el dominio de herramientas como power BI, SQL y Python. 
 
+Contacto: https://www.linkedin.com/in/kptarache/ 
+
 ---
 
 ### Experiencia.
@@ -36,13 +38,40 @@ Bupa Chile (2019-Actualidad)
 
 ### Herramientas.
 
+SAP avanzado.
+
 Excel avanzado.
 
-SAP avanzado.
+https://github.com/KPTARACHE/Analisis_Venta_Excel
 
 Power BI avanzado.
 
-SQL.
+https://github.com/KPTARACHE/Analisis_Financiero_2025_PowerBI
+
+SQL intermedio.
+
+https://github.com/KPTARACHE/Analisis_cartera_de_creditos
+
+Python Basico.
+
+https://github.com/KPTARACHE/Analisis_Venta_Python
+
+---
+
+### Proyectos destacados.
+
+#### 📊 [Dashboard financiero: Real vs Presupuesto](https://github.com/KPTARACHE/PEGA-AQUÍ-EL-NOMBRE-DEL-REPO-POWERBI) · Power BI, DAX
+
+- **Problema:** los datos financieros llegaban con fechas vacías, monedas faltantes y montos mal formateados, y no permitían comparar presupuesto vs real ni explicar las variaciones del Estado de Resultados.
+- **Solución:** limpié y validé los datos (3.452 registros, 276 excluidos con criterio documentado), armé un modelo estrella con tabla Calendario y medidas DAX (variaciones, inteligencia de tiempo, ranking de centros de costo) y un dashboard con KPIs, estado de resultados, waterfall y texto ejecutivo dinámico.
+- **Conclusión:** La empresa está vendiendo más que el año anterior, pero gastando más rápido de lo que factura, el incremento de ventas esperado para compensar el sobregasto no fue suficiente; el presupuesto de ventas 2025 fue poco realista, lo que infla artificialmente la sensación de "mal desempeño" cuando en realidad el problema de fondo está en el control de gastos operativos y no en las ventas.
+
+#### 🏦 [Cartera de créditos (FinCore)](https://github.com/KPTARACHE/analisis-cartera-creditos-sql) · MySQL
+
+- **Problema:** el estado del préstamo no anticipaba el riesgo real de la cartera.
+- **Solución:** construí en MySQL un modelo con vistas, trigger de auditoría, procedimientos y resumen mensual, y optimicé las consultas con `EXPLAIN`.
+- **Conclusión:** en el segmento Personal, la categoría C tiene la mitad de su saldo en mora, aunque ningún crédito figura como vencido.
+- **Recomendación:** monitorear los días de mora como señal temprana y revisar el precio por riesgo, porque la categoría B hoy tiene una tasa mayor que la C.
 
 ---
 
